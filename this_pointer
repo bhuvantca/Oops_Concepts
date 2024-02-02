@@ -1,0 +1,8 @@
+In C++ programming, "this" is a keyword that refers to the current instance of the class. 
+It serves three primary purposes: 
+  It can be used to pass current object as a parameter to another method.
+  It can be used to refer current class instance variable.
+  It can be used to declare indexers.
+
+
+Reference: https://www.scaler.com/topics/cpp/this-pointer-in-cpp/
